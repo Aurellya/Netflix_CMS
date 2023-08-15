@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply m-0 box-border bg-primary-color text-white;
+}
+
+/* clears the ‘X’ from Internet Explorer */
+input[type="search"]::-ms-clear {
+  @apply hidden w-0 h-0;
+}
+
+input[type="search"]::-ms-reveal {
+  @apply hidden w-0 h-0;
+}
+
+/* clears the ‘X’ from Chrome */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  @apply hidden;
+}
+
+::-webkit-scrollbar {
+  @apply w-[2px];
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  @apply bg-primary-color;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  @apply bg-tertiary-color rounded;
+}
+
+select {
+  appearance: none;
+}
+
+/* remove the dropdown arrow */
+select::-ms-expand {
+  @apply hidden;
+}
+
+/* for browsers that support the `appearance` property */
+select.appearance-none {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+#preloader {
+  @apply fixed top-0 left-0 w-full h-full z-[9999] bg-primary-color opacity-80;
+}
+
+#preloader .loading {
+  @apply absolute top-[50%] left-[50%] transform -translate-x-1/2 -translate-y-1/2;
+}
+
+#preloader .loader {
+  @apply h-[100px] w-[20%] text-center p-[1em] inline-block m-auto mb-[1em];
+}
+
+#preloader svg path,
+#preloader svg rect {
+  @apply fill-secondary-color;
+}
+
+.lightning-gradient {
+  animation: lightning 10s infinite;
+}
+
+@keyframes lightning {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  20% {
+    opacity: 0.2;
+    transform: scale(0.8);
+  }
+  40% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  45% {
+    transform: rotate(20deg);
+  }
+  55% {
+    transform: rotate(20deg);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  80% {
+    opacity: 0.2;
+    transform: scale(0.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

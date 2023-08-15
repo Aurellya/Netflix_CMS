@@ -1,0 +1,265 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Insidious: The Red Door",
+      "slug": "insidious-the-red-door",
+      "synopsis": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+      "trailerUrl": "https://youtu.be/ZuQuOnYnr3Q",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/78/c9/78c96f808a1e0d6691880772050f367c/78c96f808a1e0d6691880772050f367c.jpg",
+      "rating": 6,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "title": "Evil Dead Rise",
+      "slug": "evil-dead-rise",
+      "synopsis": "Two sisters find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "trailerUrl": "https://youtu.be/smTK_AeAPHs",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/b7/4e/b74e17781dfdb81be9a9ba94cf6b1e78/b74e17781dfdb81be9a9ba94cf6b1e78.jpg",
+      "rating": 7.1,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "title": "Fast X",
+      "slug": "fast-x",
+      "synopsis": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "trailerUrl": "https://youtu.be/32RAq6JzY-w",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/a9/9b/a99ba7cd6b251e75c6723da994bc02b4/a99ba7cd6b251e75c6723da994bc02b4.jpg",
+      "rating": 5.9,
+      "genreId": 2,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "title": "Brooklyn Nine-Nine",
+      "slug": "brooklyn-nine-nine",
+      "synopsis": "A ensemble comedy following the lives of a diverse group of detectives in a New York precinct.",
+      "trailerUrl": "https://youtu.be/faJAT35j5Ss",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/d8/6f/d86f60e52f85e1203c755318c6147fca/d86f60e52f85e1203c755318c6147fca.jpg",
+      "rating": 8.4,
+      "genreId": 3,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "title": "Missing: The Lucie Blackman Case",
+      "slug": "missing-the-lucie-blackman-case",
+      "synopsis": "July 1, 2000. British 21-year-old Lucie Blackman goes missing in Tokyo, sparking an international investigation — and an unyielding quest for justice.",
+      "trailerUrl": "https://youtu.be/O_f4TTE7xvo",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/24/d6/24d600edd08418a7c594ed699219382b/24d600edd08418a7c594ed699219382b.jpg",
+      "rating": 6.5,
+      "genreId": 4,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "title": "The Super Mario Bros. Movie",
+      "slug": "the-super-mario-bros-movie",
+      "synopsis": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      "trailerUrl": "https://youtu.be/TnGl01FkMMo",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/f7/69/f769d69be489f65e8cb1748693fce35e/f769d69be489f65e8cb1748693fce35e.jpg",
+      "rating": 7.4,
+      "genreId": 5,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 7,
+      "title": "A Business Proposal",
+      "slug": "a-business-proposal",
+      "synopsis": "Ha Ri takes place a blind date claiming to be her friend for a substantial cash payment-- yet she's alarmed to recognize 'her' date is Tae Mu, the CEO of the firm she works at. To make issues worse, he's dead set on weding her, uninformed that she's a worker of his. And the one point he despises most? Liars.",
+      "trailerUrl": "https://youtu.be/mh4R-WXRhQo",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/16/84/168415f9532156dbf5214845ffbf040f/168415f9532156dbf5214845ffbf040f.jpg",
+      "rating": 8.1,
+      "genreId": 6,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 8,
+      "title": "Blood & Gold",
+      "slug": "blood-and-gold",
+      "synopsis": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+      "trailerUrl": "https://youtu.be/eDsrUYd2VbE",
+      "imgUrl": "https://img.zoechip.cc/resize/178x268/87/9d/879d451b8f31926f669f20ed474b2d1c/879d451b8f31926f669f20ed474b2d1c.jpg",
+      "rating": 6.5,
+      "genreId": 6,
+      "authorId": 1,
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 0.727049668300648,
+      "title": "test mOVIE",
+      "synopsis": "test",
+      "trailerUrl": "test",
+      "imgUrl": "test",
+      "rating": 4.4,
+      "genreId": 2,
+      "slug": "test-movie",
+      "authorId": 1,
+      "createdAt": "2023-08-09T16:20:39.400Z",
+      "updatedAt": "2023-08-09T16:20:39.400Z"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Horror",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "name": "Action",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "name": "Comedy",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "name": "Documentary",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "name": "Animation",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "name": "Drama",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Patrick Wilson",
+      "profilePict": "https://www.themoviedb.org/t/p/w500/tc1ezEfIY8BhCy85svOUDtpBFPt.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "name": "Rose Byrne",
+      "profilePict": "https://www.hollywoodreporter.com/wp-content/uploads/2014/06/rose_byrne.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 3,
+      "movieId": 2,
+      "name": "Lily Sullivan",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTljNDMxODQtODRiMC00NTM1LTljMTYtZWQzN2E2NTA1MzRlXkEyXkFqcGdeQXVyMTA2NzE3NTc2._V1_FMjpg_UX1000_.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 4,
+      "movieId": 2,
+      "name": "Alyssa Sutherland",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTM2NjQ0NTU3Ml5BMl5BanBnXkFtZTcwNTExMDIyOQ@@._V1_.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 5,
+      "movieId": 3,
+      "name": "Vin Diesel",
+      "profilePict": "https://flxt.tmsimg.com/assets/79719_v9_bc.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 6,
+      "movieId": 3,
+      "name": "Daniela Melchior",
+      "profilePict": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c7/Daniela_Melchior.jpg/revision/latest/scale-to-width-down/1200?cb=20230428175216",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 7,
+      "movieId": 4,
+      "name": "Andy Samberg",
+      "profilePict": "https://flxt.tmsimg.com/assets/484313_v9_bb.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 8,
+      "movieId": 4,
+      "name": "Melissa Fumero",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTY1OTk1NzQwOF5BMl5BanBnXkFtZTgwNDUzNTA3NjE@._V1_.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 9,
+      "movieId": 4,
+      "name": "Terry Crews",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_FMjpg_UX1000_.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 10,
+      "movieId": 4,
+      "name": "Stephanie Beatriz",
+      "profilePict": "https://e1.pxfuel.com/desktop-wallpaper/647/253/desktop-wallpaper-stephanie-beatriz.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 11,
+      "movieId": 5,
+      "name": "Tim Blackman",
+      "profilePict": "https://readysteadycut.com/wp-content/uploads/2023/07/0_Tim-Blackman-whos-daughter-Lucie-Blackman-was-murdered-in-Tokyo-Japan-in-2000-Japanese-businessm.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 12,
+      "movieId": 7,
+      "name": "Kim Se-jeong",
+      "profilePict": "https://asianwiki.com/images/3/39/Kim_Se-Jeong-1996-p1.jpeg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    },
+    {
+      "id": 13,
+      "movieId": 7,
+      "name": "Ahn Hyo-seop",
+      "profilePict": "https://asianwiki.com/images/a/a1/Ahn_Hyo-Seop-1995-p1.jpg",
+      "createdAt": "2023-08-07T02:15:12.356Z",
+      "updatedAt": "2023-08-07T02:15:12.356Z"
+    }
+  ]
+}
